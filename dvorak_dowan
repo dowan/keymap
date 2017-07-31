@@ -1,5 +1,5 @@
 default  partial alphanumeric_keys
-xkb_symbols "alpha_arrows" {
+xkb_symbols "dvorak_dowan" {
     include "dvorak"
     
     key <AC07>  { symbols[Group2]=[ Left,      Left,      Left,      Left      ] };

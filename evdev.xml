@@ -2297,6 +2297,18 @@
     </layout>
     <layout>
       <configItem>
+        <name>dowan</name>
+        
+        <shortDescription>dowan</shortDescription>
+        <description>dvorak for dowan</description>
+        <languageList>
+          <iso639Id>fra</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList/>
+    </layout>
+    <layout>
+      <configItem>
         <name>cn</name>
         
         <shortDescription>zh</shortDescription>
