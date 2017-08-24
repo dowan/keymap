@@ -60,4 +60,7 @@ xkb_symbols "dowan" {
     key <AC08>  { symbols[Group2]=[ Down,      Down,      Down,      Down      ] };
     key <AC09>  { symbols[Group2]=[ Right,     Right,     Right,     Right     ] };
     key <AD08>  { symbols[Group2]=[ Up,        Up,        Up,        Up        ] };
+    key <AE01>  { symbols[Group2]=[ eacute,     eacute,     eacute,     eacute     ] };
+    key <AE02>  { symbols[Group2]=[ egrave,     egrave,     egrave,     egrave     ] };
+    key <AE03>  { symbols[Group2]=[ agrave,     agrave,     agrave,     agrave     ] };
 };
