@@ -63,4 +63,6 @@ xkb_symbols "dowan" {
     key <AE01>  { symbols[Group2]=[ eacute,     eacute,     eacute,     eacute     ] };
     key <AE02>  { symbols[Group2]=[ egrave,     egrave,     egrave,     egrave     ] };
     key <AE03>  { symbols[Group2]=[ agrave,     agrave,     agrave,     agrave     ] };
+    key <AE04>  { symbols[Group2]=[ ccedilla,   ccedilla,   ccedilla,   ccedilla   ] };
+
 };
